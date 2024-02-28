@@ -1,0 +1,12 @@
+::ng-deep .mat-form-field {
+  width:550px !important;
+  height: 70px;
+}
+
+::ng-deep .matdialog {
+  overflow-y: hidden !important;
+}
+
+::ng-deep .check {
+  padding: 21px;
+}
